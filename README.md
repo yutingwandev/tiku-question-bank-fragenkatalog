@@ -13,7 +13,7 @@
 这是一个**在线刷题网页**，打开链接就能用，不用安装任何东西。
 
 - **4000 多道题**，分成 10 个科目：Python、NumPy、Pandas、Matplotlib、Jupyter 数据分析练习、SQL、数据分析方法和模型、数据分析指标与指标体系、咨询面试框架及习题、Case 新手大礼包
-  （NumPy 和 Pandas 暂时还没有题目）
+  （Pandas 暂时还没有题目）
 - 题型有：选择、填空、判断、简答、编程、程序填空、习题、笔记
 - 每道题都有**中文、英文、德文**三种语言，可以随时切换
 - 很多题带有「💬 大白话」解释，用简单的话讲清楚题目在问什么
@@ -73,7 +73,7 @@
 An **online practice page** for question banks. Just open the link, nothing to install.
 
 - **4,000+ questions** in 10 subjects: Python, NumPy, Pandas, Matplotlib, Jupyter data-analysis exercises, SQL, data-analysis methods & models, metrics & metric systems, consulting case frameworks & exercises, and a case-interview starter pack
-  (NumPy and Pandas have no questions yet)
+  (Pandas has no questions yet)
 - Question types: multiple choice, fill-in-the-blank, true/false, short answer, coding, code completion, exercises, notes
 - Every question is available in **Chinese, English and German**, switchable at any time
 - Many questions come with a "💬 plain-language" hint (in Chinese) that explains what is being asked
@@ -133,7 +133,7 @@ In a Notion page type `/embed`, paste the online link above and make the box lar
 Eine **Online-Übungsseite** für Fragenkataloge. Einfach den Link öffnen, nichts installieren.
 
 - **Über 4.000 Aufgaben** in 10 Fächern: Python, NumPy, Pandas, Matplotlib, Jupyter-Datenanalyse-Übungen, SQL, Methoden und Modelle der Datenanalyse, Kennzahlen und Kennzahlensysteme, Frameworks und Übungen für Consulting-Cases sowie ein Case-Interview-Einsteigerpaket
-  (NumPy und Pandas enthalten noch keine Aufgaben)
+  (Pandas enthält noch keine Aufgaben)
 - Aufgabentypen: Auswahl, Lückentext, Richtig/Falsch, Kurzfragen, Programmieren, Code ergänzen, Übungen, Notizen
 - Jede Aufgabe gibt es auf **Chinesisch, Englisch und Deutsch**, jederzeit umschaltbar
 - Viele Aufgaben haben eine „💬 einfach erklärt“-Hilfe (auf Chinesisch), die erklärt, worum es geht
